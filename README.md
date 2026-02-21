@@ -1,0 +1,1 @@
+# TALUK_NDVI
